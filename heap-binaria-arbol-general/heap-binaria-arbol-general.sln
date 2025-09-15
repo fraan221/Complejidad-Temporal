@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "heap-binaria-arbol-general-com3-HerreraFranco", "heap-binaria-arbol-general-com3-HerreraFranco\heap-binaria-arbol-general-com3-HerreraFranco.csproj", "{AF3A8388-6C1E-4FF3-9194-DFC50B2BC70C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF3A8388-6C1E-4FF3-9194-DFC50B2BC70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3A8388-6C1E-4FF3-9194-DFC50B2BC70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3A8388-6C1E-4FF3-9194-DFC50B2BC70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3A8388-6C1E-4FF3-9194-DFC50B2BC70C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA0B5B88-7AE1-4738-BE53-207F77CDEFF7}
+	EndGlobalSection
+EndGlobal
